@@ -1,0 +1,10 @@
+# Environment
+python==3.11.9
+
+# Core libraries
+ultralytics>=8.0.0
+torch>=2.1.0
+opencv-python
+numpy
+pandas
+matplotlib
