@@ -1,10 +1,31 @@
-# Environment
-python==3.11.9
+
+# Guitar Detection Project Requirements
+
+# Python version: 3.11.19
+# (Note: This line is informational only — pip will not install Python itself.)
 
 # Core libraries
 ultralytics>=8.0.0
 torch>=2.1.0
-opencv-python
-numpy
-pandas
-matplotlib
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Supporting libraries
+Pillow>=12.0.0
+PyYAML>=6.0.0
+seaborn>=0.13.0
+scipy>=1.10.0
+polars>=1.0.0
+
+# Utility & system
+typing_extensions>=4.5.0
+psutil>=5.9.0
+requests>=2.31.0
+certifi>=2024.0.0
+filelock>=3.12.0
+fsspec>=2023.0.0
+networkx>=3.0
+sympy>=1.12

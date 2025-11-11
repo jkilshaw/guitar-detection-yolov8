@@ -14,3 +14,4 @@ runs/
 *.zip
 
 .ipynb_checkpoints/
+requirements_fixed.txt
